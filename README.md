@@ -1,0 +1,2 @@
+# mybatisgenerate
+springboot集成mybatisgenerate自动生成entity、mapper类
